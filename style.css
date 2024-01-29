@@ -540,6 +540,24 @@ section .title::after{
   color: crimson;
   background: none;
 }
+/* .social-media {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  column-gap: 24px;
+}
+.social-media > img {
+  cursor: pointer;
+} */
+  /* .footer-social .fa-brands {
+        margin-bottom: 1.25rem;
+    } */
+    /* footer hr {
+        margin-top: 1.25rem;
+        width: 335px;
+    } */
+
 /* footer section styling */
 footer{
     /* background: #111; */
